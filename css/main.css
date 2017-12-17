@@ -2,3 +2,14 @@ img{
   height: 240px;
   width: 240px;
 }
+
+.gameTitle{
+  font-family: 'Poiret One', cursive;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.gameDescription{
+  font-family: 'Poiret One', cursive;
+  font-size: 16px;
+}
